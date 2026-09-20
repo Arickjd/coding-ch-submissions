@@ -11,11 +11,7 @@
   <img src="https://img.shields.io/badge/NeetCode-auto--synced-00C853?style=flat-square" alt="NeetCode auto-synced">
 </p>
 
-## About
-
-This repository keeps my solutions from coding platforms in one place. **NeetCode submissions are synchronized automatically** through NeetCode's GitHub Sync integration.
-
-## Profiles
+Just my LeetCode solutions gathered in a repository for organization and categorization. **NeetCode submissions are automatically synchronized** via the NeetCode GitHub Sync integration.
 
 | Platform | Profile                                                        |
 | :------- | :------------------------------------------------------------- |
@@ -25,14 +21,7 @@ This repository keeps my solutions from coding platforms in one place. **NeetCod
 
 ## Progress dashboard
 
-> Repository snapshot: update these counts whenever a manually added solution is merged. NeetCode keeps its submission files synchronized automatically.
-
-| Platform                 | Solved | Sync method |
-| :----------------------- | -----: | :---------- |
-| NeetCode                 |      1 | Automatic   |
-| LeetCode                 |      0 | Manual      |
-| Kaggle / other platforms |      0 | Manual      |
-| **Total**                |  **1** | -           |
+> section under construction
 
 ### By difficulty
 
